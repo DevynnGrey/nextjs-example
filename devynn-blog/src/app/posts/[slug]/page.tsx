@@ -20,7 +20,11 @@ export default async function Post({ params }: Params) {
 
   return (
     <main>
-      <Alert preview={post.preview} />
+      {
+      // Turning off the alert component for now, since there is link to the source in the footer
+      // TODO: Refactor/remove in the future
+      // <Alert preview={post.preview} />
+      }
       <Container>
         <Header />
         <article className="mb-32">

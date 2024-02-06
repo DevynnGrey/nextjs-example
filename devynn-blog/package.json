@@ -1,5 +1,6 @@
 {
   "private": true,
+  "author": {"name": "Devynn"},
   "scripts": {
     "dev": "next",
     "build": "next build",
