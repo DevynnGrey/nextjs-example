@@ -1,13 +1,13 @@
 ---
-title: "Example Post"
-excerpt: "This is an example post to show how easy it is to add a new blog post using this framework. I added all of the metadata, generated some text via ChatGPT, and added a profile picture to get this finalized. The cover image is made using AI (Midjourney) and the blog text is hipster "
-coverImage: "/assets/blog/example-post/examplePost.png"
+title: "Nutty the Squirrel"
+excerpt: "This is an example post to show how easy it is to add a new blog post using this framework. I added all of the metadata, generated some text via ChatGPT, and added a profile picture to get this finalized. The cover image is made using AI (Midjourney) and the blog text is a story by Chat GPT."
+coverImage: "/assets/blog/nutty-the-squirrel/nuttySquirrel.png"
 date: "2024-02-06T05:35:07.322Z"
 author:
   name: Devynn
   picture: "/assets/blog/authors/devynn.png"
 ogImage:
-  url: "/assets/blog/example-post/examplePost.png"
+  url: "/assets/blog/nutty-the-squirrel/nuttySquirrel.png"
 ---
 
 # Nutty the Squirrel
