@@ -10,6 +10,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: `Devynn Example Blog`,
   description: `Devynn Example Blog using NextJS and deployed via Vercel`,
+  metadataBase: new URL('http://localhost:3000'),
   openGraph: {
     images: [HOME_OG_IMAGE_URL],
   },
